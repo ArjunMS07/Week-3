@@ -1,0 +1,7 @@
+Day 11 Django Setup Completed
+
+- Created virtual environment
+- Installed Django
+- Created project: klaw_backend
+- Created app: courses
+- Successfully ran development server
